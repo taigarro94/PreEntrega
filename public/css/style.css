@@ -1,0 +1,53 @@
+.tituloHome {
+    background-color: rgb(32, 52, 167);
+    color: #fff;
+    padding: 5px;
+    text-align: center;
+  }
+  .containerCard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .containerProductos {
+    display: flex;
+  }
+  .containerForm {
+    width: 80%;
+    margin: 30px;
+  }
+  .tituloInputs {
+    background-color: rgb(70, 80, 136);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .center {
+    display: flex;
+    justify-content: center;
+  }
+  
+  label {
+    color: rgb(12, 97, 57);
+    font-weight: bold;
+  }
+  
+  input {
+    border-color: rgb(0, 0, 0);
+    font-weight: bolder;
+    border-radius: 5px;
+  }
+  
+  .bolder {
+    font-weight: bolder;
+  }
+  
+  .card-text {
+    margin: 0;
+  }
+  
+  .card-body {
+    font-size: 16px;
+  }

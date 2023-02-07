@@ -1,0 +1,112 @@
+[
+    {
+      "id": 1,
+      "title": "Resma Carta",
+      "description": "500 Hojas",
+      "price": 1900,
+      "thumbnail": "Sin Imagen",
+      "code": "p01",
+      "stock": 150,
+      "status": true,
+      "category": "Libreria"
+    },
+    {
+      "id": 2,
+      "title": "Cutter",
+      "description": "Metal Blister",
+      "price": 752,
+      "thumbnail": "Sin Imagen",
+      "code": "p02",
+      "stock": 150,
+      "status": true,
+      "category": "Libreria"
+    },
+    {
+      "id": 3,
+      "title": "Agenda 2023",
+      "description": "Con Espiral",
+      "price": 800,
+      "thumbnail": "Sin Imagen",
+      "code": "p03",
+      "stock": 75,
+      "status": true,
+      "category": "Libreria"
+    },
+    {
+      "id": 4,
+      "title": "Cartulina",
+      "description": "Azul Blister",
+      "price": 210,
+      "thumbnail": "Sin Imagen",
+      "code": "p04",
+      "stock": 18,
+      "status": true,
+      "category": "Libreria"
+    },
+    {
+      "id": 5,
+      "title": "Cartulina",
+      "description": "Fucsia Blister",
+      "price": 210,
+      "thumbnail": "Sin Imagen",
+      "code": "p05",
+      "stock": 15,
+      "status": true,
+      "category": "Libreria"
+    },
+    {
+      "id": 6,
+      "title": "Lápices",
+      "description": "Colores x15",
+      "price": 1050,
+      "thumbnail": "Sin Imagen",
+      "code": "p06",
+      "stock": 10,
+      "status": true,
+      "category": "Libreria"
+    },
+    {
+      "id": 7,
+      "title": "Marcador E 100",
+      "description": "Redonda Azul",
+      "price": 381,
+      "thumbnail": "Sin Imagen",
+      "code": "p07",
+      "stock": 120,
+      "status": true,
+      "category": "Libreria"
+    },
+    {
+      "id": 8,
+      "title": "Marcador E 100",
+      "description": "Redonda Verde",
+      "price": 381,
+      "thumbnail": "Sin Imagen",
+      "code": "p08",
+      "stock": 110,
+      "status": true,
+      "category": "Libreria"
+    },
+    {
+      "id": 9,
+      "title": "Transportador",
+      "description": "180° 12cm",
+      "price": 82,
+      "thumbnail": "Sin Imagen",
+      "code": "p09",
+      "stock": 500,
+      "status": true,
+      "category": "Libreria"
+    },
+    {
+      "id": 10,
+      "title": "Papel Afiche",
+      "description": "Color Celeste",
+      "price": 149,
+      "thumbnail": "Sin Imagen",
+      "code": "p10",
+      "stock": 350,
+      "status": true,
+      "category": "Libreria"
+    }
+  ]
